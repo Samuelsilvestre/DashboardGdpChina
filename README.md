@@ -1,19 +1,12 @@
-# Projeto de Visualização de Dados: Análise do PIB Histórico e Cidades da China (Power BI)
+# 📊 Dashboard Power BI: PIB Histórico e Cidades da China
 
-## 🎯 Objetivo
+Este projeto apresenta um dashboard interativo no **Power BI** que analisa a evolução histórica do PIB da China e compara suas principais metrópoles.
 
-Este projeto apresenta um dashboard interativo desenvolvido no **Microsoft Power BI** com o objetivo principal de analisar a evolução histórica do Produto Interno Bruto (PIB) da China e realizar um comparativo geográfico e econômico das suas principais metrópoles.
+## 🌏 Visualização
 
-## 📊 Dashboard de Visualização
+O relatório permite explorar o crescimento econômico chinês e a participação das grandes cidades.
 
-O relatório permite explorar o crescimento econômico chinês ao longo dos anos e visualizar a contribuição das maiores cidades.
-
-**O print do dashboard final está visível abaixo, referenciado a partir do diretório `relatorio/` do projeto:**
-
-![Dashboard Power BI - Análise de PIB da China](relatorio/graficos_china.jpg)
+![Dashboard Power BI - Análise do PIB da China](https://github.com/Samuelsilvestre/DashboardGdpChina/blob/master/relatorio/graficos_china.png?raw=true)
 
 ---
-
-## 📁 Estrutura do Projeto
-
-O repositório está organizado da seguinte forma:
+📁 Diretório: `relatorio/`
